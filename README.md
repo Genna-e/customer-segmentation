@@ -48,7 +48,7 @@ The dataset includes the following customer attributes:
    3. **Low-Spending Infrequent Buyers**: Customers who need re-engagement campaigns.
 
 ## Visualizations
-![Customer Clusters](visualizations/customer_clusters.png)
+![Customer Clusters](customer_clusters.png)
 
 
 ## How to Run the Project
